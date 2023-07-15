@@ -19,7 +19,7 @@ __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -29,7 +29,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
+`January 2015 - June 2018`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
@@ -38,14 +38,14 @@ __Pacific Northwest National Lab__, Richland, WA
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
+`April 2013 - June 2014`
 __Westmark Credit Union__, Consultant
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
+
 __Good2Go__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
@@ -54,7 +54,7 @@ __Good2Go__, Consultant
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
+`January  - April `
 __Imagine Learning__
 
 - Build web scraping tool to find and format school district technology data.
@@ -71,11 +71,11 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
+`2012`
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
+`2008-2010`
 __Service Missionary__, South Africa
 
 
